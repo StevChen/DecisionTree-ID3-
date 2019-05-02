@@ -1,0 +1,7 @@
+# data file
+# *.csv
+# *.data
+
+
+# cache file
+*.pyc
