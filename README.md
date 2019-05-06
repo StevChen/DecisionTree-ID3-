@@ -7,12 +7,6 @@ Libs: Numpy, Pandas
 ---
 The implementation of the ID3 algorithm from scratch.
 
-**Table of Contents**
-
-[TOCM]
-
-[TOC]
-
 #Entropy and Information Gain
 ![Information Gain](https://latex.codecogs.com/gif.latex?Gain%28T%2C%20X%29%20%3D%20Entorpy%28T%29%20-%20Entropy%28T%2C%20X%29)
 
