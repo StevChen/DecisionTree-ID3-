@@ -7,7 +7,7 @@ Libs: Numpy, Pandas
 ---
 The implementation of the ID3 algorithm from scratch.
 
-#Entropy and Information Gain
+# Entropy and Information Gain
 
 ![Information Gain](https://latex.codecogs.com/gif.latex?Gain%28T%2C%20X%29%20%3D%20Entorpy%28T%29%20-%20Entropy%28T%2C%20X%29)
 
@@ -15,7 +15,7 @@ The implementation of the ID3 algorithm from scratch.
 
 ![Entropy](https://latex.codecogs.com/gif.latex?Entropy%28T%2C%20X%29%20%3D%20%5Csum%20P%28c%29E%28c%29)
 
-#Tree Construction:
+# Tree Construction:
 1. Find the best attribute to split using the math formulas
 2. Evaluate each category of selected attribute
 3. Repeat above process for the remaining attribute
