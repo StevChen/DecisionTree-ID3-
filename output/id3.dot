@@ -1,0 +1,16 @@
+strict digraph "" {
+	"0 deg-malig" -> "1_no-recurrence-events";
+	"0 deg-malig" -> "2_no-recurrence-events";
+	"0 deg-malig" -> "0 inv-nodes";
+	"0 breast-quad" -> "3_no-recurrence-events";
+	"0 breast-quad" -> "4_no-recurrence-events";
+	"0 breast-quad" -> "5_no-recurrence-events";
+	"0 breast-quad" -> "6_no-recurrence-events";
+	"0 inv-nodes" -> "0 breast-quad";
+	"0 inv-nodes" -> "7_recurrence-events";
+	"0 inv-nodes" -> "8_recurrence-events";
+	"0 inv-nodes" -> "9_recurrence-events";
+	"0 inv-nodes" -> "10_recurrence-events";
+	"0 inv-nodes" -> "11_recurrence-events";
+	"0 inv-nodes" -> "12_recurrence-events";
+}

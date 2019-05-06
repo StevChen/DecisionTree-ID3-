@@ -1,0 +1,12 @@
+strict digraph "" {
+	"0 deg-malig" -> "1_no-recurrence-events";
+	"0 deg-malig" -> "2_no-recurrence-events";
+	"0 deg-malig" -> "0 inv-nodes";
+	"0 inv-nodes" -> "3_no-recurrence-events";
+	"0 inv-nodes" -> "4_recurrence-events";
+	"0 inv-nodes" -> "5_recurrence-events";
+	"0 inv-nodes" -> "6_recurrence-events";
+	"0 inv-nodes" -> "7_recurrence-events";
+	"0 inv-nodes" -> "8_recurrence-events";
+	"0 inv-nodes" -> "9_recurrence-events";
+}

@@ -1,0 +1,6 @@
+strict digraph "" {
+	"0 act" -> "1_F";
+	"0 act" -> "0 age";
+	"0 age" -> "2_T";
+	"0 age" -> "0 None";
+}

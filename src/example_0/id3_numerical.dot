@@ -1,0 +1,17 @@
+strict digraph "" {
+	"0 humidity" -> "1_Yes";
+	"0 humidity" -> "0 outlook";
+	"0 humidity" -> "4_Yes";
+	"0 humidity" -> "5_Yes";
+	"0 humidity" -> "1 wind";
+	"0 humidity" -> "8_No";
+	"0 humidity" -> "2 outlook";
+	"0 humidity" -> "11_No";
+	"0 humidity" -> "12_Yes";
+	"0 outlook" -> "2_No";
+	"0 outlook" -> "3_Yes";
+	"1 wind" -> "6_No";
+	"1 wind" -> "7_Yes";
+	"2 outlook" -> "9_Yes";
+	"2 outlook" -> "10_No";
+}

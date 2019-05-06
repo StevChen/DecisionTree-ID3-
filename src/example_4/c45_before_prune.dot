@@ -1,0 +1,23 @@
+strict digraph "" {
+	"0 odor" -> "1_e";
+	"0 odor" -> "2_p";
+	"0 odor" -> "3_p";
+	"0 odor" -> "4_e";
+	"0 odor" -> "5_p";
+	"0 odor" -> "0 gill-size";
+	"0 odor" -> "14_p";
+	"0 odor" -> "15_p";
+	"0 odor" -> "16_p";
+	"0 ring-number" -> "6_e";
+	"0 ring-number" -> "0 spore-print-color";
+	"0 spore-print-color" -> "7_p";
+	"0 spore-print-color" -> "8_e";
+	"0 gill-size" -> "0 ring-number";
+	"0 gill-size" -> "2 bruises";
+	"2 stalk-surface-above-ring" -> "9_e";
+	"2 stalk-surface-above-ring" -> "10_p";
+	"2 stalk-surface-above-ring" -> "11_e";
+	"2 stalk-surface-above-ring" -> "12_p";
+	"2 bruises" -> "2 stalk-surface-above-ring";
+	"2 bruises" -> "13_p";
+}

@@ -24,3 +24,6 @@ class Node:
         self.branches[category] = branch
     def getBranch(self):
         return self.branches
+
+    def getDataset(self):
+        return self.dataset

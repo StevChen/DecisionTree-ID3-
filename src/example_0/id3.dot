@@ -1,0 +1,9 @@
+strict digraph "" {
+	"0 outlook" -> "1_Yes";
+	"0 outlook" -> "0 humidity";
+	"0 outlook" -> "1 wind";
+	"0 humidity" -> "2_No";
+	"0 humidity" -> "3_Yes";
+	"1 wind" -> "4_Yes";
+	"1 wind" -> "5_No";
+}

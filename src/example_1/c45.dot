@@ -1,0 +1,11 @@
+strict digraph "" {
+	"0 inv-nodes" -> "1_no-recurrence-events";
+	"0 inv-nodes" -> "2_recurrence-events";
+	"0 inv-nodes" -> "3_recurrence-events";
+	"0 inv-nodes" -> "0 menopause";
+	"0 inv-nodes" -> "6_recurrence-events";
+	"0 inv-nodes" -> "7_recurrence-events";
+	"0 inv-nodes" -> "8_no-recurrence-events";
+	"0 menopause" -> "4_no-recurrence-events";
+	"0 menopause" -> "5_recurrence-events";
+}
