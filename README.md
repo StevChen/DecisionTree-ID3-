@@ -45,3 +45,7 @@ function ID3(dataset, class):
     return root
 }
 ```
+
+## Examples
+### Play Dataset
+[!Alt Text](/src/example_0/id3.png?raw=true "ID3 Output")
