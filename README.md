@@ -48,4 +48,40 @@ function ID3(dataset, class):
 
 ## Examples
 ### Play Dataset
-[!Alt Text](/src/example_0/id3.png?raw=true "ID3 Output")
+![Alt text](./src/example_0/id3_numerical.png?raw=true "ID3 Numerical Output")
+![Alt text](./src/example_0/c45.png?raw=true "C4.5 Output")
+
+### Breast-cancer Dataset
+![Alt text](./src/example_1/id3.png?raw=true "ID3 Output")
+![Alt text](./src/example_1/c45.png?raw=true "C4.5 Output")
+
+### Tic Tac Toe Dataset
+Before Tree Pruning
+![Alt text](./src/example_2/id3_before_purne.png?raw=true "ID3 Output")
+![Alt text](./src/example_2/c45_before_prune.png?raw=true "C4.5 Output")
+
+After Tree Pruning
+![Alt text](./src/example_2/id3.png?raw=true "ID3 Output")
+![Alt text](./src/example_2/c45.png?raw=true "C4.5 Output")
+
+Accuracy_rate.png
+![Alt text](./src/example_2/accuracy_rate.png?raw=true "Accuracy Rate")
+
+
+### Ballroom Dataset
+![Alt text](./src/example_3/id3.png?raw=true "ID3 Output")
+![Alt text](./src/example_3/c45.png?raw=true "C4.5 Output")
+
+
+### Mushroom Dataset
+![Alt text](./src/example_4/id3.png?raw=true "ID3 Output")
+![Alt text](./src/example_4/c45.png?raw=true "C4.5 Output")
+
+
+
+
+
+
+
+
+
