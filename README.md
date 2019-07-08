@@ -64,7 +64,7 @@ After Tree Pruning
 ![Alt text](./src/example_2/id3.png?raw=true "ID3 Output")
 ![Alt text](./src/example_2/c45.png?raw=true "C4.5 Output")
 
-Accuracy_rate.png
+Accuracy rate
 ![Alt text](./src/example_2/accuracy_rate.png?raw=true "Accuracy Rate")
 
 
@@ -76,6 +76,8 @@ Accuracy_rate.png
 ### Mushroom Dataset
 ![Alt text](./src/example_4/id3.png?raw=true "ID3 Output")
 ![Alt text](./src/example_4/c45.png?raw=true "C4.5 Output")
+Accuracy rate
+![Alt text](./src/example_4/accuracy_rate.png?raw=true "Accuracy Rate")
 
 
 
