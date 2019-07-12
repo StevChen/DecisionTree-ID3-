@@ -1,8 +1,8 @@
 ## Decision Tree Agorithm ID3(completed), C4.5(partial); with prune
 
-Environment: Python 3.7
-Libs: Numpy, Pandas
-(optional): Networkx, pyGraphviz
+Environment: Python 3.7 <br />
+Libs: Numpy, Pandas <br />
+Output the Diagram: Networkx, pyGraphviz
 
 ---
 The implementation of the ID3 algorithm from scratch.
